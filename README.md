@@ -64,3 +64,11 @@ Run spelling and grammar checks
 ## Present Your Exploration
 
 You will be sharing your findings to the class in a 10-15 minute presentation and will receive feedback from your instructors.
+
+### More Sources
+
+https://www.census.gov/data/tables/2019/econ/abs/2019-abs-company-summary.html
+
+https://data.census.gov/table?tid=ABSCS2018.AB1800CSA02&hidePreview=true = 
+https://data.census.gov/table?tid=ABSCS2018.AB1800CSA03&hidePreview=true
+https://data.census.gov/table?tid=ABSCS2018.AB1800CSA04&hidePreview=true
