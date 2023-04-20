@@ -2,6 +2,10 @@
 
 This assessment was designed to allow you to demonstrate multiple skill sets: API consumption, Python programming, cleaning and transforming data with Pandas, data visualization with Matplotlib and Seaborn, using Github and working in teams.
 
+## Authors
+
+Shervorn Mathews, Janeel Abrahams, Jin Hee Lee
+
 ## Data Sources
 
 Within your group, you will explore [the Census API](https://api.census.gov/data.html), specifically the [Annual Business Survey (ABS) APIs for 2019](https://www.census.gov/data/developers/data-sets/abs.2019.html).
