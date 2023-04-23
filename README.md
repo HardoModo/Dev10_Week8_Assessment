@@ -12,7 +12,7 @@ This project was done using  [the Census API](https://api.census.gov/data.html),
 
 ## ETL Steps
 
-Using the [ABS APIs for 2019](https://www.census.gov/data/developers/data-sets/abs.2019.html). Each step is more thouroughly noted in the notebook as Markdown
+Using the [ABS APIs for 2019](https://www.census.gov/data/developers/data-sets/abs.2019.html). Each step is more thoroughly noted in the notebook as Markdown
 
 1. Consume the API
 2. Clean the data
