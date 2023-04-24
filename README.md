@@ -1,6 +1,8 @@
 # Dev10 Week8 Assessment
 
-This assessment was designed to allow you to demonstrate multiple skill sets: API consumption, Python programming, cleaning and transforming data with Pandas, data visualization with Matplotlib and Seaborn, using Github and working in teams.
+This repositry contains a project that explores the Annual Business Survey (ABS) API for 2019. 
+
+It also acts as a demonstration of API consumption, Python programming, cleaning and transforming data with Pandas, data visualization with Matplotlib and Seaborn, using Github and working in teams.
 
 ## Authors
 
@@ -50,4 +52,4 @@ There are instruction provided in the main.ipynb on how to install or check your
 
 ## Project Repository
 
-[Link to Repository](https://github.com/HardoModo/Dev10_Week8_Assessment) to your GitHub repository.
+[Link to Repository](https://github.com/HardoModo/Dev10_Week8_Assessment)
