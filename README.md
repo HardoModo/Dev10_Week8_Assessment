@@ -16,10 +16,10 @@ The ipynb file with this repositry requires the following modules:
 
 You can check your current version via the following terminal commands: 
 - `matplotlib.__version__`,
-- `import seaborn as sns
-- sns.__version__`.
-- `import numpy
-- numpy.version.version`,
+- `import seaborn as sns`
+- `sns.__version__`.
+- `import numpy`
+- `numpy.version.version`
 
 ## Data Sources
 
