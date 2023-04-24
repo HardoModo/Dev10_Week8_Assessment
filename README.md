@@ -25,13 +25,7 @@ The visualizations were created using matplotlib and seaborn. There are instruct
 
 ## ETL Report
 
-Write a report that details your steps in cleaning your data. This report may be given to another group to replicate your research and verify your claims.
-
-- If the order matters in how the steps are taken, make sure to use numbered steps.
-
-- If the order matters in how tables are combined, be explicit in stating that order.
-
-- If you used a Jupyter Notebook to do the ETL process, you can submit the Jupyter Notebook for this part. Use text blocks to explain the processes rather than letting the code explain itself.
+[Link to ETL Report](PDFs\Assessment 8 ETL Report.pdf)
 
 ## Write a Project Report
 
