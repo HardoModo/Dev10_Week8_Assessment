@@ -6,22 +6,39 @@ This assessment was designed to allow you to demonstrate multiple skill sets: AP
 
 Shervorn Mathews, Janeel Abrahams, Jin Hee Lee
 
+## Prerequisite Requirements
+
+The ipynb file with this repositry requires the following modules:
+- `pip install seaborn` 
+- `pip install numpy`
+- `pip install matplotlib`
+- `pip install plotly_express`
+
+You can check your current version via the following terminal commands: 
+- `matplotlib.__version__`,
+- `import seaborn as sns
+- sns.__version__`.
+- `import numpy
+- numpy.version.version`,
+
 ## Data Sources
 
-This project was done using  [the Census API](https://api.census.gov/data.html), specifically the [Annual Business Survey (ABS) APIs for 2019](https://www.census.gov/data/developers/data-sets/abs.2019.html).
+The data used in this repository was collected via the [Annual Business Survey (ABS) APIs for 2019](https://www.census.gov/data/developers/data-sets/abs.2019.html).
 
-## ETL Steps
+A guide on how to use the API can be found in the follow link: [API Guide](https://www.census.gov/data/developers/guidance/api-user-guide.Help_&_Contact_Us.html)
 
-Using the [ABS APIs for 2019](https://www.census.gov/data/developers/data-sets/abs.2019.html). Each step is more thoroughly noted in the notebook as Markdown
+Additional data sources used to supplement our research can found in the following links:
 
-1. Consume the API
-2. Clean the data
-3. Merge the data
-4. Transform the data
+[Industry, Sex, Ethnicity, Race, Veteran Status, and Years in Business](https://data.census.gov/table?tid=ABSCS2018.AB1800CSA02&hidePreview=true)
+
+[Industry, Sex, Ethnicity, Race, Veteran Status, and Receipts Size of Firm](https://data.census.gov/table?tid=ABSCS2018.AB1800CSA03&hidePreview=true)
+
+[Industry, Sex, Ethnicity, Race, Veteran Status, and Employment Size of Firm](https://data.census.gov/table?tid=ABSCS2018.AB1800CSA04&hidePreview=true)
 
 ## Visualizations
 
-The visualizations were created using matplotlib and seaborn. There are instruction in the visualization section on how to install or check your version of these packages if needed.
+The visualizations were created using matplotlib, pandas and seaborn. 
+There are instruction provided in the main.ipynb on how to install or check your version of these packages if needed.
 
 ## ETL Report
 
@@ -29,44 +46,8 @@ The visualizations were created using matplotlib and seaborn. There are instruct
 
 ## Write a Project Report
 
-1. Write a formal technical report that explains your research that includes:
+[Link to Project Report](Link goes here)
 
-    - Identifying and citing your data sources
-Listing your initial questions
+## Project Repository
 
-    - Explaining the process to answer those questions
-
-    - Answering those questions or indicating if more research may be needed. If more research is needed, suggest what research may need to be done.
-
-2. Format the report professionally. Suppose you are presenting this to your future employers. What would you want them to see?
-Run spelling and grammar checks
-
-## Check the Project Into GitHub
-
-1. Create a GitHub repository for your group's presentation materials.
-
-2. Include all code for processing the API data.
-
-    - This code should all be stored in a Jupyter Notebook.
-
-    - All visualizations need to be created in Python.
-
-3. Be sure to show the use of pandas for cleaning, merging, and transforming data.
-
-4. Include the report in your GitHub repository.
-
-5. Create a detailed README.md that introduces your repository, sets the expectations on where to find things, and mentions each group member's contributions.
-
-6. Submit a [link](https://github.com/HardoModo/Dev10_Week8_Assessment) to your GitHub repository.
-
-## Present Your Exploration
-
-You will be sharing your findings to the class in a 10-15 minute presentation and will receive feedback from your instructors.
-
-### More Sources
-
-https://www.census.gov/data/tables/2019/econ/abs/2019-abs-company-summary.html
-
-https://data.census.gov/table?tid=ABSCS2018.AB1800CSA02&hidePreview=true
-https://data.census.gov/table?tid=ABSCS2018.AB1800CSA03&hidePreview=true
-https://data.census.gov/table?tid=ABSCS2018.AB1800CSA04&hidePreview=true
+[Link to Repository](https://github.com/HardoModo/Dev10_Week8_Assessment) to your GitHub repository.
