@@ -25,7 +25,7 @@ The visualizations were created using matplotlib and seaborn. There are instruct
 
 ## ETL Report
 
-[Link to ETL Report](PDFs\Assessment 8 ETL Report.pdf)
+[Link to ETL Report](https://github.com/HardoModo/Dev10_Week8_Assessment/blob/main/PDFs/Assessment%208%20ETL%20Report.pdf)
 
 ## Write a Project Report
 
