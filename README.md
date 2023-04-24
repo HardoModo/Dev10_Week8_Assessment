@@ -8,11 +8,11 @@ Shervorn Mathews, Janeel Abrahams, Jin Hee Lee
 
 ## Data Sources
 
-Within your group, you will explore [the Census API](https://api.census.gov/data.html), specifically the [Annual Business Survey (ABS) APIs for 2019](https://www.census.gov/data/developers/data-sets/abs.2019.html).
+This project was done using  [the Census API](https://api.census.gov/data.html), specifically the [Annual Business Survey (ABS) APIs for 2019](https://www.census.gov/data/developers/data-sets/abs.2019.html).
 
-## ETL Requirements
+## ETL Steps
 
-Using the [ABS APIs for 2019](https://www.census.gov/data/developers/data-sets/abs.2019.html)
+Using the [ABS APIs for 2019](https://www.census.gov/data/developers/data-sets/abs.2019.html). Each step is more thoroughly noted in the notebook as Markdown
 
 1. Consume the API
 2. Clean the data
@@ -21,7 +21,7 @@ Using the [ABS APIs for 2019](https://www.census.gov/data/developers/data-sets/a
 
 ## Visualizations
 
-Each group member should create three visualizations using at least two different visualization packages. (So, if there are four group members, you will have 12 visualizations total.)
+The visualizations were created using matplotlib and seaborn. There are instruction in the visualization section on how to install or check your version of these packages if needed.
 
 ## ETL Report
 
