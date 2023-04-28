@@ -46,7 +46,7 @@ There are instruction provided in the main.ipynb on how to install or check your
 
 [Link to ETL Report](https://github.com/HardoModo/Dev10_Week8_Assessment/blob/main/PDFs/Assessment%208%20ETL%20Report.pdf)
 
-## Write a Project Report
+## Project Report
 
 [Link to Project Report](https://github.com/HardoModo/Dev10_Week8_Assessment/blob/main/PDFs/Assessment%208%20Project%20Report.pdf)
 
